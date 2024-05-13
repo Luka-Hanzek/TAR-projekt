@@ -14,6 +14,13 @@ Entry points:<br>
 Applications](https://arxiv.org/pdf/2107.02126.pdf)<br>
 • [Wang et al. (2021). The Art of Prompting: Event Detection based on Type Specific Prompts](https://aclanthology.org/2023.acl-short.111.pdf)<br>
 
+
+## Cloning
+This project uses submodules:
+```bash
+git clone --recurse-submodules <URL>
+```
+
 ## Setup
 
 To install the dependencies run:

@@ -1,0 +1,3 @@
+[submodule "MAVEN-competition-repo"]
+	path = MAVEN-competition-repo
+	url = https://github.com/THU-KEG/MAVEN-dataset.git
